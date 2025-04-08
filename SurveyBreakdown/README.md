@@ -36,7 +36,8 @@ To explore:
 
 ## 📄 Report
 
-[📄 View Report (PDF)](./Data%20Professional%20Survey%20Breakdown.pdf)
+- [📄 View Report (PDF)](./Data%20Professional%20Survey%20Breakdown.pdf)  
+- [📥 Download Power BI File (PBIX)](./Data%20Professional%20Survey%20Breakdown.pbix)
 
 ---
 
