@@ -2,7 +2,7 @@
 
 This Power BI dashboard was built by following a guided tutorial from **Alex the Analyst**. It analyzes survey data from data professionals across the globe to explore trends in tools, job satisfaction, salary, and career paths.
 
-🎥 Tutorial Source: [Alex the Analyst – Power BI Full Project](https://www.youtube.com/watch?v=9phgYzWvGoA)
+🎥 Tutorial Source: [Alex the Analyst – Power BI Full Project](https://www.bing.com/videos/riverview/relatedvideo?q=alex+the+analyst+Power+BI+guided+projec&qpvt=alex+the+analyst+Power+BI+guided+projec&view=riverview&mmscn=mtsc&mid=194DC850F08616AB10F8194DC850F08616AB10F8&&aps=0&FORM=VMSOVR)
 
 ---
 
