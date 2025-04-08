@@ -1,76 +1,67 @@
 # Lego In Progress Dashboard (Power BI)
 
-This project was completed as part of a guided portfolio challenge from **Maven Analytics**. The goal was to analyze a dataset of LEGO sets and build a dashboard that explores the relationships between price, age range, themes, and build complexity.
-
-I built this dashboard independently in Power BI, applying data modeling, DAX, and UX design principles to surface key insights for business stakeholders.
-
----
-
-## 🎯 Objective
-
-- Analyze LEGO set distribution across themes and categories
-- Compare average price and pieces per set
-- Understand pricing ranges by age group and theme
-- Drill into detailed categories using decomposition trees
+> A Power BI dashboard analyzing LEGO set development across price, age range, and theme.  
+> Built as part of a Maven Analytics portfolio challenge.
 
 ---
 
-## 💼 My Role & Skills
+## 📘 Project Summary
 
-Although the dataset and business challenge were provided by Maven Analytics, I handled:
-- All **Power BI report development**
-- **Data modeling** and relationships
-- **DAX measures** for average price, piece count, and category-level insights
-- **Slicer filters** and interactive layout
-- A clean visual theme designed for executive readability
+This dashboard was created as part of a guided project from **Maven Analytics**. The goal was to analyze a dataset of LEGO sets and deliver an executive-level report that offers insight into product complexity, pricing tiers, age targeting, and thematic trends.
+
+Although the dataset and prompt were provided, all report building, data modeling, and DAX calculations were completed independently using Power BI.
 
 ---
 
-## 🧰 Tools & Techniques
+## 🎯 Project Objectives
+
+- Explore LEGO sets in development across various themes and age ranges
+- Visualize pricing tiers, build complexity, and average piece count
+- Create an interactive experience for filtering by category, age group, and price
+- Drill into specific categories using decomposition trees for root cause analysis
+
+---
+
+## 🛠️ Tools & Techniques Used
 
 - Power BI Desktop  
-- DAX (Data Analysis Expressions)  
-- Decomposition Trees  
-- Slicers & Filters  
-- KPI Cards & Summary Visuals  
-- Report Theming & Layout Design
+- Data Modeling  
+- DAX Measures  
+- Decomposition Tree Visuals  
+- Slicers & Interactive Filters  
+- Executive Dashboard Design
 
 ---
 
 ## 📄 Files
 
-- [📥 Download PBIX file](./Lego%20In%20Progress.pbix)
-- [📄 Overview Dashboard (PDF)](./Overview.pdf)
-- [📄 Decomposition Tree (PDF)](./Decomp%20Tree%20Visual.pdf)
+- [📥 Download Power BI File (PBIX)](./Lego%20In%20Progress.pbix)
+- [📄 Overview Dashboard – PDF](./Overview.pdf)
+- [📄 Decomposition Tree View – PDF](./Decomp%20Tree%20Visual.pdf)
 
 ---
 
-## 🖼️ Dashboard Previews
+## 🖼️ Dashboard Previews *(optional if PNGs are uploaded)*
 
 ### 📌 Overview Page  
-Features total set count, price ranges, theme breakdowns, and age distribution:
-
 ![Overview](./Overview.png)
 
-### 🔍 Decomposition Tree  
-Breaks down categories by type and popularity for deeper exploration:
-
+### 🔍 Decomposition Tree View  
 ![Decomposition Tree](./DecompTree.png)
 
-> *(If you're uploading PNG versions of these PDFs, save them with the exact filenames above to render images inline.)*
+> If viewing as a PDF, the dashboard covers price distribution, set categories, and age-targeted themes. The decomposition tree allows deep dive into set groups like Licensed, Technical, and Star Wars variants.
 
 ---
 
 ## 📚 Credits
 
-- Guided by: [Maven Analytics Portfolio Challenge](https://www.mavenanalytics.io/project-challenges)
-- Dataset: Provided by Maven for educational use
+- **Challenge Provider:** [Maven Analytics](https://www.mavenanalytics.io/project-challenges)
+- **Dataset:** LEGO Set Data provided by Maven for educational/portfolio use
 
 ---
 
 ## 📬 Contact
 
-I'm Kayleigh Mannering, an aspiring data analyst passionate about dashboard design and storytelling.
-
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/kayleigh-mannering/)
-- 🧠 [My GitHub Profile](https://github.com/KayMann00)
+**Kayleigh Mannering**  
+💼 [LinkedIn](https://www.linkedin.com/in/kayleigh-mannering/)  
+🧠 [GitHub Profile](https://github.com/KayMann00)
