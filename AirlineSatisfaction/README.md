@@ -32,7 +32,9 @@ This dashboard was developed as part of a Power BI course project through a comm
 
 ## 📄 Report
 
-[📄 View Report (PDF)](./Airline%20Passenger%20Satisfaction.pdf)
+- [📄 View Report (PDF)](./Airline%20Passenger%20Satisfaction.pdf)  
+- [📥 Download Power BI File (PBIX)](./Airline%20Passenger%20Satisfaction.pbix)
+
 
 ---
 
