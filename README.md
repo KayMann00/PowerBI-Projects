@@ -29,7 +29,13 @@ An analysis of passenger satisfaction data for a fictional airline, focusing on 
 📄 [View Report PDF](./AirlineSatisfaction/Airline%20Passenger%20Satisfaction.pdf)
 
 ---
+### 4. [📁 Lego Dashboard](./LegoDashboard/README.md)  
+**Source:** Maven Analytics Portfolio Challenge  
+A Power BI dashboard analyzing LEGO set themes, pricing tiers, age targeting, and product complexity. Includes KPI summaries, price filters, and a decomposition tree for category insights.
 
+📄 [View Report PDF](./LegoDashboard/Overview.pdf)
+
+---
 ## 🛠️ Tools & Skills Demonstrated
 
 - Power BI Desktop  
