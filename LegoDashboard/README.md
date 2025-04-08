@@ -41,17 +41,6 @@ Although the dataset and prompt were provided, all report building, data modelin
 
 ---
 
-## 🖼️ Dashboard Previews *(optional if PNGs are uploaded)*
-
-### 📌 Overview Page  
-![Overview](./Overview.png)
-
-### 🔍 Decomposition Tree View  
-![Decomposition Tree](./DecompTree.png)
-
-> If viewing as a PDF, the dashboard covers price distribution, set categories, and age-targeted themes. The decomposition tree allows deep dive into set groups like Licensed, Technical, and Star Wars variants.
-
----
 
 ## 📚 Credits
 
