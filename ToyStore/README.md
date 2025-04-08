@@ -34,7 +34,8 @@ This project was completed as part of a KPI dashboard challenge from **Maven Ana
 
 ## 📄 Report
 
-[📄 View Report (PDF)](./Toy%20Store%20KPI%20Report.pdf)
+- [📄 View Report (PDF)](./Toy%20Store%20KPI%20Report.pdf)  
+- [📥 Download Power BI File (PBIX)](./Toy%20Store%20KPI%20Report.pbix)
 
 ---
 
