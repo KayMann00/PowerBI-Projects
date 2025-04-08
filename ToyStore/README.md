@@ -2,7 +2,7 @@
 
 This project was completed as part of a KPI dashboard challenge from **Maven Analytics**. The goal was to create a clean, executive-level Power BI dashboard using retail data from a fictional toy store.
 
-🧩 Source: [Maven Analytics Project Challenge](https://www.mavenanalytics.io/project-challenges)
+🧩 Source: [Maven Analytics Project Challenge](https://app.mavenanalytics.io/guided-projects)
 
 ---
 
