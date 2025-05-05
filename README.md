@@ -36,6 +36,14 @@ A Power BI dashboard analyzing LEGO set themes, pricing tiers, age targeting, an
 📄 [View Report PDF](./LegoDashboard/Overview.pdf)
 
 ---
+### 5. [📁 Departmental Performance Overview](./DepartmentalPerformanceOverview/README.md)  
+**Source:** Self-created using simulated IT support ticket data  
+A Power BI dashboard analyzing IT ticket performance across departments and employees. Includes resolution rates, ticket priority breakdowns, submission trends over time, and employee-level filtering. Built for internal performance tracking and to highlight operational bottlenecks.  
+
+📄 [View Report PDF](./DepartmentalPerformanceOverview/Departmental%20Performance%20Overview.pdf)
+
+---
+
 ## 🛠️ Tools & Skills Demonstrated
 
 - Power BI Desktop  
